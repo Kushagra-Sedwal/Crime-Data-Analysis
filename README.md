@@ -10,4 +10,4 @@ Tableau dashboard for visualizing San Francisco crime data, identifying regional
 * **Drill-Down Capabilities:** Allows users to navigate from high-level summaries to detailed information about individual crime incidents.
 * **San Francisco Crime Dataset:** Built using the publicly available Chicago Crime Dataset 
 
-![Crime Analysis Dashboard Preview](screenshots/dashboard.png)
+![Crime Analysis Dashboard Preview](Screenshots/dashboard.png)
