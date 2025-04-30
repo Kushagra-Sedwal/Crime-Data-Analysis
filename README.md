@@ -8,6 +8,6 @@ Tableau dashboard for visualizing San Francisco crime data, identifying regional
 * **Region-Wise Crime Analysis:** Enables the examination of crime trends and distributions specific to different regions within Chicago.
 * **Dynamic Filtering:** Offers a range of filters (e.g., crime type, date range, community area) to focus on specific subsets of the data.
 * **Drill-Down Capabilities:** Allows users to navigate from high-level summaries to detailed information about individual crime incidents.
-* **Chicago Crime Dataset:** Built using the publicly available Chicago Crime Dataset (Note: See the [Data Source](#data-source) section for details).
+* **San Francisco Crime Dataset:** Built using the publicly available Chicago Crime Dataset 
 
-## Screenshots
+![Crime Analysis Dashboard Preview](screenshots/dashboard.png)
